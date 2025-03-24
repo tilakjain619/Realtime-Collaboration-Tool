@@ -1,18 +1,5 @@
 # Realtime Collaboration Tool
 
-*Company*: CodTech IT Solutions
-
-*Name*: Tilak Jain
-
-*Intern ID*: CT08OKR
-
-*Domain*: MERN Stack Development
-
-*Duration*: 4 Weeks
-
-*Mentor*: Neela Santosh
-
-
 ## Introduction
 
 A real-time collaboration tool that allows users to collaboratively write, edit, and compile JavaScript code. The tool supports multi-user interactions and provides real-time updates, ensuring a seamless and efficient coding experience. Integrated chat functionality enables users to communicate and share ideas directly within the tool.
